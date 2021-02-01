@@ -1,0 +1,7 @@
+shape: noisy
+texture: csf
+blood_clot_p: 0
+white_matter_p: 0
+
+use_pseudolabeled: true
+summary_path: "/home/fernando/datasets/real/pseudo/aleatoric/summary.csv"

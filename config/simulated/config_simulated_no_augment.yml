@@ -1,0 +1,5 @@
+shape: noisy
+texture: csf
+blood_clot_p: 0
+white_matter_p: 0
+augment: False

@@ -1,0 +1,10 @@
+pre_trained_checkpoint_path: /home/fernando/git/ijcars-2020-scripts/runs/baseline/checkpoint.pth  # if null, train from scratch
+dataset_name: null  # must be specified
+num_folds: 5
+pseudo_dirname: null
+load_scheduler: false
+load_optimizer: false
+num_epochs: 40
+continue_iterations: false
+learning_rate: 0.0005
+use_public_landmarks: false  # retrain histogram landmarks with real dataset

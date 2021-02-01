@@ -1,0 +1,3 @@
+pre_trained_checkpoint_path: null  # train from scratch
+dataset_name: null  # must be specified
+num_folds: 5

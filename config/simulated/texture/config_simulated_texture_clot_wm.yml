@@ -1,0 +1,4 @@
+shape: noisy
+texture: csf
+blood_clot_p: 0.2
+white_matter_p: 0.2

@@ -1,0 +1,17 @@
+# First:
+# conda create -n ijcars python=3.7 ipython -y && conda activate ijcars
+# conda install pytorch=1.7.1 torchvision=0.8.2 cudatoolkit=11.0 -c pytorch -y
+# pip install -e ~/git/torchio  # use local for development
+# pip install -e ~/git/unet  # use local for development
+# pip install -e ~/git/resector  # use local for development
+torchio==0.18.16
+unet==0.7.7
+-e git+https://github.com/fepegar/resector.git@v0.2.3#egg=resector
+incense==0.0.11
+matplotlib==3.3.3
+pandas==1.1.5
+pyyaml==5.3.1
+sacred==0.8.2
+seaborn==0.11.1
+scikit-learn==0.23.2
+tensorboard==2.4.0
