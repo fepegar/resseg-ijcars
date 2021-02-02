@@ -2,7 +2,7 @@
 
 This is the code for *Pérez-García et al., 2021, An unsupervised learning strategy for postoperative
 brain cavity segmentation simulating resections
-during training - IJCARS*.
+during training - Submitted to IJCARS*.
 
 ## `resseg`
 
