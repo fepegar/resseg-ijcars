@@ -6,11 +6,11 @@ during training - Submitted to IJCARS*.
 
 ## `resseg`
 
-The train models can be used directly by installing the [`resseg`](https://github.com/fepegar/resseg) Python package.
+The trained models can be used to segment easily using [`resseg`](https://github.com/fepegar/resseg).
 
 ## `resector`
 
-Resections can be simulated using [`resector`](https://github.com/fepegar/resector).
+Resections can be simulated on 3D MRI using [`resector`](https://github.com/fepegar/resector).
 
 ## Installation
 
