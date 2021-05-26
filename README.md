@@ -1,8 +1,8 @@
 ## Postoperative brain cavity segmentation
 
-This is the code for *Pérez-García et al., 2021, An unsupervised learning strategy for postoperative
+This is the code for [*Pérez-García et al., 2021, An unsupervised learning strategy for postoperative
 brain cavity segmentation simulating resections
-during training - Submitted to IJCARS*.
+during training*](https://arxiv.org/abs/2105.11239) - Accepted for publication in the International Journal of Computer Assisted Radiology and Surgery (IJCARS).
 
 ## `resseg`
 
