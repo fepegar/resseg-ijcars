@@ -1,8 +1,31 @@
 ## Postoperative brain cavity segmentation
 
-This is the code for *Pérez-García et al., 2021, An unsupervised learning strategy for postoperative
+This is the code for [Pérez-García et al., 2021, *An unsupervised learning strategy for postoperative
 brain cavity segmentation simulating resections
-during training - IJCARS*.
+during training* - International Journal of Computer Assisted Radiology and
+Surgery (IJCARS)](https://doi.org/10.1007/s11548-021-02420-2).
+
+If you use this code or the [EPISURG](https://github.com/fepegar/SlicerEPISURG)
+dataset for your research, please cite this publication as:
+
+> Pérez-García, F., Dorent, R., Rizzi, M. et al. A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections. Int J CARS (2021). https://doi.org/10.1007/s11548-021-02420-2
+
+BibTeX:
+
+```bibtex
+@article{perez-garcia_self-supervised_2021,
+	title = {A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections},
+	issn = {1861-6429},
+	url = {https://doi.org/10.1007/s11548-021-02420-2},
+	doi = {10.1007/s11548-021-02420-2},
+	language = {en},
+	urldate = {2021-06-14},
+	journal = {International Journal of Computer Assisted Radiology and Surgery},
+	author = {P{\'e}rez-Garc{\'i}a, Fernando and Dorent, Reuben and Rizzi, Michele and Cardinale, Francesco and Frazzini, Valerio and Navarro, Vincent and Essert, Caroline and Ollivier, Ir{\`e}ne and Vercauteren, Tom and Sparks, Rachel and Duncan, John S. and Ourselin, S{\'e}bastien},
+	month = jun,
+	year = {2021},
+}
+```
 
 ## `resseg`
 
