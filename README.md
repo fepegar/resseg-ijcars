@@ -1,4 +1,4 @@
-## Postoperative brain cavity segmentation
+## RESSEG: segmentation of postoperative brain cavities on 3D MRI using deep learning
 
 ![Segmentation of intraoperative
 MRI](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11548-021-02420-2/MediaObjects/11548_2021_2420_Fig6_HTML.jpg)
