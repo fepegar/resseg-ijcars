@@ -3,9 +3,7 @@
 ![Segmentation of intraoperative
 MRI](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11548-021-02420-2/MediaObjects/11548_2021_2420_Fig6_HTML.jpg)
 
-This is the code for [Pérez-García et al., 2021, *An unsupervised learning strategy for postoperative
-brain cavity segmentation simulating resections
-during training* - International Journal of Computer Assisted Radiology and
+This is the code for [Pérez-García et al., 2021, *A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections* - International Journal of Computer Assisted Radiology and
 Surgery (IJCARS)](https://doi.org/10.1007/s11548-021-02420-2).
 
 If you use this code or the [EPISURG](https://github.com/fepegar/SlicerEPISURG)
